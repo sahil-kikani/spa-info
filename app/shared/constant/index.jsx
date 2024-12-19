@@ -1,0 +1,1 @@
+export const baseUrl = 'http://20.193.149.47:2242/spas/vendor-spa-update-test/1/'
